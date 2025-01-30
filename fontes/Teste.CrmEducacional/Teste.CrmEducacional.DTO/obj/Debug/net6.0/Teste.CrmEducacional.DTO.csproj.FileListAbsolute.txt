@@ -1,0 +1,12 @@
+D:\Teste-FernandoSantos\fontes\Lgp.StockControlSystem\Teste.CrmEducacional.DTO\bin\Debug\net6.0\Teste.CrmEducacional.DTO.deps.json
+D:\Teste-FernandoSantos\fontes\Lgp.StockControlSystem\Teste.CrmEducacional.DTO\bin\Debug\net6.0\Teste.CrmEducacional.DTO.dll
+D:\Teste-FernandoSantos\fontes\Lgp.StockControlSystem\Teste.CrmEducacional.DTO\bin\Debug\net6.0\Teste.CrmEducacional.DTO.pdb
+D:\Teste-FernandoSantos\fontes\Lgp.StockControlSystem\Teste.CrmEducacional.DTO\obj\Debug\net6.0\Teste.CrmEducacional.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Teste-FernandoSantos\fontes\Lgp.StockControlSystem\Teste.CrmEducacional.DTO\obj\Debug\net6.0\Teste.CrmEducacional.DTO.AssemblyInfoInputs.cache
+D:\Teste-FernandoSantos\fontes\Lgp.StockControlSystem\Teste.CrmEducacional.DTO\obj\Debug\net6.0\Teste.CrmEducacional.DTO.AssemblyInfo.cs
+D:\Teste-FernandoSantos\fontes\Lgp.StockControlSystem\Teste.CrmEducacional.DTO\obj\Debug\net6.0\Teste.CrmEducacional.DTO.csproj.CoreCompileInputs.cache
+D:\Teste-FernandoSantos\fontes\Lgp.StockControlSystem\Teste.CrmEducacional.DTO\obj\Debug\net6.0\Teste.CrmEducacional.DTO.sourcelink.json
+D:\Teste-FernandoSantos\fontes\Lgp.StockControlSystem\Teste.CrmEducacional.DTO\obj\Debug\net6.0\Teste.CrmEducacional.DTO.dll
+D:\Teste-FernandoSantos\fontes\Lgp.StockControlSystem\Teste.CrmEducacional.DTO\obj\Debug\net6.0\refint\Teste.CrmEducacional.DTO.dll
+D:\Teste-FernandoSantos\fontes\Lgp.StockControlSystem\Teste.CrmEducacional.DTO\obj\Debug\net6.0\Teste.CrmEducacional.DTO.pdb
+D:\Teste-FernandoSantos\fontes\Lgp.StockControlSystem\Teste.CrmEducacional.DTO\obj\Debug\net6.0\ref\Teste.CrmEducacional.DTO.dll

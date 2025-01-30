@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teste.CrmEducacional.Api", "Teste.CrmEducacional.Api\Teste.CrmEducacional.Api.csproj", "{CEE5C4B6-7801-4FDB-AD0B-D53BDB7685DA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1- API", "1- API", "{A8F2E218-2D7F-4E9E-9A0B-1A5624EA96E2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2- Domain", "2- Domain", "{8DDF476F-5560-459F-A0D4-F9C5DD8CD400}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3- Repository", "3- Repository", "{9F9CFAE7-937C-456D-8798-FA3DCE0FD27A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teste.CrmEducacional.Domain", "Teste.CrmEducacional.Domain\Teste.CrmEducacional.Domain.csproj", "{3821E0CA-6172-4C41-BB81-962E9719D81B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teste.CrmEducacional.DTO", "Teste.CrmEducacional.DTO\Teste.CrmEducacional.DTO.csproj", "{839D9D41-2A37-49FA-BF88-1E4EC965293A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste.CrmEducacional.Repository", "Teste.CrmEducacional.Repository\Teste.CrmEducacional.Repository.csproj", "{5817B939-A456-4509-90B3-FAC1E7AC2A91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEE5C4B6-7801-4FDB-AD0B-D53BDB7685DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE5C4B6-7801-4FDB-AD0B-D53BDB7685DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE5C4B6-7801-4FDB-AD0B-D53BDB7685DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE5C4B6-7801-4FDB-AD0B-D53BDB7685DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3821E0CA-6172-4C41-BB81-962E9719D81B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3821E0CA-6172-4C41-BB81-962E9719D81B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3821E0CA-6172-4C41-BB81-962E9719D81B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3821E0CA-6172-4C41-BB81-962E9719D81B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{839D9D41-2A37-49FA-BF88-1E4EC965293A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{839D9D41-2A37-49FA-BF88-1E4EC965293A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{839D9D41-2A37-49FA-BF88-1E4EC965293A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{839D9D41-2A37-49FA-BF88-1E4EC965293A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5817B939-A456-4509-90B3-FAC1E7AC2A91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5817B939-A456-4509-90B3-FAC1E7AC2A91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5817B939-A456-4509-90B3-FAC1E7AC2A91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5817B939-A456-4509-90B3-FAC1E7AC2A91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CEE5C4B6-7801-4FDB-AD0B-D53BDB7685DA} = {A8F2E218-2D7F-4E9E-9A0B-1A5624EA96E2}
+		{3821E0CA-6172-4C41-BB81-962E9719D81B} = {8DDF476F-5560-459F-A0D4-F9C5DD8CD400}
+		{839D9D41-2A37-49FA-BF88-1E4EC965293A} = {8DDF476F-5560-459F-A0D4-F9C5DD8CD400}
+		{5817B939-A456-4509-90B3-FAC1E7AC2A91} = {9F9CFAE7-937C-456D-8798-FA3DCE0FD27A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3259A47-6F5C-48FA-AB0D-E63E3D544B33}
+	EndGlobalSection
+EndGlobal
