@@ -26,6 +26,9 @@ namespace Teste.CrmEducacional.Domain.Configurations
         {
             base.OnModelCreating(modelBuilder);
             modelBuilder.ApplyConfiguration(new CandidatoMap());
+            modelBuilder.ApplyConfiguration(new CursoMap());
+            modelBuilder.ApplyConfiguration(new InscricaoMap());
+            modelBuilder.ApplyConfiguration(new ProcessoSeletivoMap());
         }
 
 

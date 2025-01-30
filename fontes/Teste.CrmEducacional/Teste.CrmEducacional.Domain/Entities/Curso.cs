@@ -11,7 +11,7 @@ namespace Teste.CrmEducacional.Domain.Entities
         public long IdCurso { get; set; }
         public string Nome { get; set; }
         public string Descricao { get; set; }
-        public string VagasDisponivel { get; set; }
+        public long VagasDisponivel { get; set; }
 
     }
 }

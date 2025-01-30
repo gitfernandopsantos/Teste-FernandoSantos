@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Teste.CrmEducacional.Repository")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d37637ed95171f29f8ea95618ca0d29f15935e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10983a2d7c85c868f0e590f10fcf6974db3fce45")]
 [assembly: System.Reflection.AssemblyProductAttribute("Teste.CrmEducacional.Repository")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Teste.CrmEducacional.Repository")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

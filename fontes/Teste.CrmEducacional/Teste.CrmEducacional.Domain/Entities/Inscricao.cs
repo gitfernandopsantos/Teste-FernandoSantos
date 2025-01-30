@@ -8,6 +8,7 @@ namespace Teste.CrmEducacional.Domain.Entities
 {
     public class Inscricao
     {
+        #region Atributos
         public long IdInscricao { get; set; }
         public string NumeroInscricao { get; set; }
         public string Data { get; set; }
@@ -15,7 +16,12 @@ namespace Teste.CrmEducacional.Domain.Entities
         public long CandidatoId { get; set; }
         public long ProcessoSeletivoId { get; set; }
         public long CursoId { get; set; }
+        #endregion
 
+        #region Construtor
+        #endregion
+        #region Metodos
+        #endregion
 
     }
 }

@@ -91,7 +91,7 @@ namespace Teste.CrmEducacional.Api.Controllers
             }
             else
             {
-                return Ok($"Usuário deletado com sucesso! Valor do resultado {candidatoDeletado}");
+                return Ok($"Candidato deletado com sucesso! Valor do resultado {candidatoDeletado}");
             }
 
         }

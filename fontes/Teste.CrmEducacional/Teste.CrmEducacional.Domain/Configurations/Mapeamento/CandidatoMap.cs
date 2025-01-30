@@ -13,7 +13,7 @@ namespace Teste.CrmEducacional.Domain.Configurations.Mapeamento
     {
         public void Configure(EntityTypeBuilder<Candidato> builder)
         {
-            builder.ToTable("Candidato", "postgres");
+            builder.ToTable("Candidatos", "public");
             builder.HasKey(x => x.IdCandidato);
             builder.Property(x => x.Email).IsRequired();
             builder.Property(x => x.CPF).IsRequired();
