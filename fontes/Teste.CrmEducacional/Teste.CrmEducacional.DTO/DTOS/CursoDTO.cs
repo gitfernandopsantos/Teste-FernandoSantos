@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace Teste.CrmEducacional.DTO.DTOS
 {
-    public class ProcessoSeletivoDTO
+    public class CursoDTO
     {
         public string Nome { get; set; }
-        public DateTime DataInicio { get; set; }
-        public DateTime DataFim { get; set; }
+        public string Descricao { get; set; }
+        public long VagasDisponivel { get; set; }
     }
 }

@@ -8,6 +8,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Teste.CrmEducacional.DTO.DTOS;
 
 namespace Teste.CrmEducacional.Repository.Repository
 {
@@ -76,16 +77,16 @@ namespace Teste.CrmEducacional.Repository.Repository
             try
             {
                 var candidato = await _dbContext.Candidatos.FirstOrDefaultAsync(x => x.IdCandidato == id);
-                if (candidato != null)
+                if (candidato == null)
                 {
-                    return candidato;
+                    throw new KeyNotFoundException("Candidato não encontrado.");
                 }
-                throw new Exception("Não foi possível localizar esse usuário. Por favor, tente novamente com outro ID");
+                return candidato;
 
             }
-            catch (Exception ex) 
+            catch (KeyNotFoundException ex) 
             {
-                throw new Exception(ex.Message, ex);
+                throw new KeyNotFoundException(ex.Message, ex);
             }
         }
 

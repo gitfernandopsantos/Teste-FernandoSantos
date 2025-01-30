@@ -22,7 +22,6 @@ namespace Teste.CrmEducacional.Api.Controllers
         [HttpGet("BuscarTodosCandidatos")]
         [ProducesResponseType(StatusCodes.Status201Created)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        [ProducesResponseType(StatusCodes.Status401Unauthorized)]
         [ProducesResponseType(StatusCodes.Status403Forbidden)]
         public async Task<ActionResult<List<Candidato>>> BuscarTodosCandidatos()
         {
@@ -42,27 +41,37 @@ namespace Teste.CrmEducacional.Api.Controllers
         [HttpGet("BuscarCandidatoPorId/{idCandidato}")]
         [ProducesResponseType(StatusCodes.Status201Created)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        [ProducesResponseType(StatusCodes.Status401Unauthorized)]
         [ProducesResponseType(StatusCodes.Status403Forbidden)]
         public async Task<ActionResult> BuscarCandidatoPorId(long idCandidato)
         {
-            Candidato candidato = await _candidatoRepository.BuscarCandidatoPeloId(idCandidato);
-            var candidatoDto = _mapper.Map<CandidatoDTO>(candidato);
-            return Ok(candidatoDto);
+            try
+            {
+                var candidato = await _candidatoRepository.BuscarCandidatoPeloId(idCandidato);
+                var candidatoDto = _mapper.Map<CandidatoDTO>(candidato);
+
+                return Ok(candidatoDto);
+            }
+            catch (KeyNotFoundException ex)
+            {
+                return NotFound(new { message = ex.Message });
+            }
+            catch (Exception)
+            {
+                return StatusCode(500, new { message = "Erro interno no servidor. Tente novamente mais tarde." });
+            }
         }
 
         [HttpPost("AdicionarCandidato")]
         [ProducesResponseType(StatusCodes.Status201Created)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        [ProducesResponseType(StatusCodes.Status401Unauthorized)]
-        [ProducesResponseType(StatusCodes.Status403Forbidden)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-        public async Task<ActionResult<Candidato>> AdicionarCandidato([FromBody] Candidato candidato)
+        public async Task<ActionResult<CandidatoDTO>> AdicionarCandidato([FromBody] Candidato candidato)
         {
             var novoCandidato = await _candidatoRepository.AdicionarCandidato(candidato);
             if (novoCandidato != null)
             {
-                return Ok(novoCandidato);
+                var novoCandidatoDto = _mapper.Map<CandidatoDTO>(novoCandidato);
+                return Ok(novoCandidatoDto);
             }
             else
             {
@@ -73,8 +82,7 @@ namespace Teste.CrmEducacional.Api.Controllers
         [HttpPut("AtualizarCandidato/{idCandidato}")]
         [ProducesResponseType(StatusCodes.Status201Created)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        [ProducesResponseType(StatusCodes.Status401Unauthorized)]
-        [ProducesResponseType(StatusCodes.Status403Forbidden)]
+        [ProducesResponseType(StatusCodes.Status500InternalServerError)]
         public async Task<ActionResult<Candidato>> AtualizarCandidato([FromBody] Candidato novoCandidato, long idCandidato)
         {
             //novoCandidato.IdUsuario = idCandidato;
