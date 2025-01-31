@@ -18,6 +18,7 @@ namespace Teste.CrmEducacional.Domain.Entities
         public string Email { get; set; }
         public string Telefone { get; set; }
         public string CPF { get; set; }
+        [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingDefault)]
         public ICollection<Inscricao> Inscricoes { get; set; } = new List<Inscricao>();
         #endregion
 

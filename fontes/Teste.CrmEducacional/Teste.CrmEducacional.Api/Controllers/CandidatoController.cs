@@ -67,7 +67,7 @@ namespace Teste.CrmEducacional.Api.Controllers
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
         public async Task<ActionResult<CandidatoDTO>> AdicionarCandidato([FromBody] Candidato candidato)
         {
-            var novoCandidato = await _candidatoRepository.AdicionarCandidato(candidato);
+            var novoCandidato = await _candidatoRepository.AdicionarCandidato(candidato.Nome,candidato.Email,candidato.Telefone,candidato.CPF);
             if (novoCandidato != null)
             {
                 var novoCandidatoDto = _mapper.Map<CandidatoDTO>(novoCandidato);
@@ -85,8 +85,7 @@ namespace Teste.CrmEducacional.Api.Controllers
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
         public async Task<ActionResult<Candidato>> AtualizarCandidato([FromBody] Candidato novoCandidato, long idCandidato)
         {
-            //novoCandidato.IdUsuario = idCandidato;
-            Candidato candidato = await _candidatoRepository.AtualizarCandidato(novoCandidato, idCandidato);
+            Candidato candidato = await _candidatoRepository.AtualizarCandidato(idCandidato,novoCandidato.Nome,novoCandidato.Email,novoCandidato.Telefone,novoCandidato.CPF);
             return Ok(candidato);
         }
         [HttpDelete("DeletarCandidato/{idCandidato}")]

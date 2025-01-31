@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Teste.CrmEducacional.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1a4d09b88c78c1dbe2c1ecb596644aa7f27ace5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4610354eb463d6e54b98e8f86bfcd1e4bc3e08a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Teste.CrmEducacional.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Teste.CrmEducacional.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

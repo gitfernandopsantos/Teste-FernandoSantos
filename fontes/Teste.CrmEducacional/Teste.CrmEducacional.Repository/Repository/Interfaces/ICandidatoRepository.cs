@@ -12,8 +12,8 @@ namespace Teste.CrmEducacional.Repository.Repository.Interfaces
     {
         Task<List<Candidato>> BuscarTodosCandidatos();
         Task <Candidato> BuscarCandidatoPeloId(long id);
-        Task<Candidato> AdicionarCandidato(Candidato candidato);
-        Task<Candidato> AtualizarCandidato(Candidato newUser, long id);
+        Task<Candidato> AdicionarCandidato(string nome, string email, string telefone, string cpf);
+        Task<Candidato> AtualizarCandidato(long id, string nome, string email, string telefone, string cpf);
         Task<bool> DeletarCandidato(long id);
     }
 }

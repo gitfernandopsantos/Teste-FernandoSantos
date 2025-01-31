@@ -3,75 +3,79 @@
   "WorkspaceRootPath": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\teste.crmeducacional.domain\\entities\\inscricao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|solutionrelative:teste.crmeducacional.domain\\entities\\inscricao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\teste.crmeducacional.domain\\entities\\candidato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|solutionrelative:teste.crmeducacional.domain\\entities\\candidato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\teste.crmeducacional.domain\\configurations\\mapeamentodtos\\entitiestodtomappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|solutionrelative:teste.crmeducacional.domain\\configurations\\mapeamentodtos\\entitiestodtomappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\teste.crmeducacional.domain\\configurations\\mapeamento\\inscricaomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|solutionrelative:teste.crmeducacional.domain\\configurations\\mapeamento\\inscricaomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\teste.crmeducacional.domain\\configurations\\mapeamento\\cursomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|solutionrelative:teste.crmeducacional.domain\\configurations\\mapeamento\\cursomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\teste.crmeducacional.domain\\configurations\\mapeamento\\processoseletivomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|solutionrelative:teste.crmeducacional.domain\\configurations\\mapeamento\\processoseletivomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\teste.crmeducacional.domain\\configurations\\mapeamento\\candidatomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|solutionrelative:teste.crmeducacional.domain\\configurations\\mapeamento\\candidatomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEE5C4B6-7801-4FDB-AD0B-D53BDB7685DA}|Teste.CrmEducacional.Api\\Teste.CrmEducacional.Api.csproj|D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\teste.crmeducacional.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CEE5C4B6-7801-4FDB-AD0B-D53BDB7685DA}|Teste.CrmEducacional.Api\\Teste.CrmEducacional.Api.csproj|solutionrelative:teste.crmeducacional.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEE5C4B6-7801-4FDB-AD0B-D53BDB7685DA}|Teste.CrmEducacional.Api\\Teste.CrmEducacional.Api.csproj|D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\teste.crmeducacional.api\\controllers\\candidatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CEE5C4B6-7801-4FDB-AD0B-D53BDB7685DA}|Teste.CrmEducacional.Api\\Teste.CrmEducacional.Api.csproj|d:\\teste-fernandosantos\\fontes\\teste.crmeducacional\\teste.crmeducacional.api\\controllers\\candidatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CEE5C4B6-7801-4FDB-AD0B-D53BDB7685DA}|Teste.CrmEducacional.Api\\Teste.CrmEducacional.Api.csproj|solutionrelative:teste.crmeducacional.api\\controllers\\candidatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEE5C4B6-7801-4FDB-AD0B-D53BDB7685DA}|Teste.CrmEducacional.Api\\Teste.CrmEducacional.Api.csproj|d:\\teste-fernandosantos\\fontes\\teste.crmeducacional\\teste.crmeducacional.api\\migrations\\testecrmeducacionaldbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEE5C4B6-7801-4FDB-AD0B-D53BDB7685DA}|Teste.CrmEducacional.Api\\Teste.CrmEducacional.Api.csproj|solutionrelative:teste.crmeducacional.api\\migrations\\testecrmeducacionaldbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\teste.crmeducacional.domain\\entities\\processoseletivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|solutionrelative:teste.crmeducacional.domain\\entities\\processoseletivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|d:\\teste-fernandosantos\\fontes\\teste.crmeducacional\\teste.crmeducacional.domain\\entities\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|solutionrelative:teste.crmeducacional.domain\\entities\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5817B939-A456-4509-90B3-FAC1E7AC2A91}|Teste.CrmEducacional.Repository\\Teste.CrmEducacional.Repository.csproj|D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\teste.crmeducacional.repository\\repository\\candidatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5817B939-A456-4509-90B3-FAC1E7AC2A91}|Teste.CrmEducacional.Repository\\Teste.CrmEducacional.Repository.csproj|solutionrelative:teste.crmeducacional.repository\\repository\\candidatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5817B939-A456-4509-90B3-FAC1E7AC2A91}|Teste.CrmEducacional.Repository\\Teste.CrmEducacional.Repository.csproj|d:\\teste-fernandosantos\\fontes\\teste.crmeducacional\\teste.crmeducacional.repository\\repository\\interfaces\\icandidatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5817B939-A456-4509-90B3-FAC1E7AC2A91}|Teste.CrmEducacional.Repository\\Teste.CrmEducacional.Repository.csproj|solutionrelative:teste.crmeducacional.repository\\repository\\interfaces\\icandidatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\teste.crmeducacional.domain\\configurations\\testecrmeducacionaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|solutionrelative:teste.crmeducacional.domain\\configurations\\testecrmeducacionaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Api\\Migrations\\20250130231652_RelacionamentosEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Teste.CrmEducacional.Api\\Migrations\\20250130231652_RelacionamentosEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CEE5C4B6-7801-4FDB-AD0B-D53BDB7685DA}|Teste.CrmEducacional.Api\\Teste.CrmEducacional.Api.csproj|D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Api\\Migrations\\20250130213703_MigrationTesteCrmV1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CEE5C4B6-7801-4FDB-AD0B-D53BDB7685DA}|Teste.CrmEducacional.Api\\Teste.CrmEducacional.Api.csproj|solutionrelative:Teste.CrmEducacional.Api\\Migrations\\20250130213703_MigrationTesteCrmV1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{839D9D41-2A37-49FA-BF88-1E4EC965293A}|Teste.CrmEducacional.DTO\\Teste.CrmEducacional.DTO.csproj|d:\\teste-fernandosantos\\fontes\\teste.crmeducacional\\teste.crmeducacional.dto\\dtos\\candidatodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CEE5C4B6-7801-4FDB-AD0B-D53BDB7685DA}|Teste.CrmEducacional.Api\\Teste.CrmEducacional.Api.csproj|D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\teste.crmeducacional.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CEE5C4B6-7801-4FDB-AD0B-D53BDB7685DA}|Teste.CrmEducacional.Api\\Teste.CrmEducacional.Api.csproj|solutionrelative:teste.crmeducacional.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\teste.crmeducacional.domain\\configurations\\mapeamento\\inscricaomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|solutionrelative:teste.crmeducacional.domain\\configurations\\mapeamento\\inscricaomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\teste.crmeducacional.domain\\configurations\\mapeamento\\processoseletivomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|solutionrelative:teste.crmeducacional.domain\\configurations\\mapeamento\\processoseletivomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\teste.crmeducacional.domain\\configurations\\mapeamento\\cursomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|solutionrelative:teste.crmeducacional.domain\\configurations\\mapeamento\\cursomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\teste.crmeducacional.domain\\configurations\\mapeamento\\candidatomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|solutionrelative:teste.crmeducacional.domain\\configurations\\mapeamento\\candidatomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5817B939-A456-4509-90B3-FAC1E7AC2A91}|Teste.CrmEducacional.Repository\\Teste.CrmEducacional.Repository.csproj|D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\teste.crmeducacional.repository\\repository\\candidatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5817B939-A456-4509-90B3-FAC1E7AC2A91}|Teste.CrmEducacional.Repository\\Teste.CrmEducacional.Repository.csproj|solutionrelative:teste.crmeducacional.repository\\repository\\candidatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\teste.crmeducacional.domain\\interfaceservices\\iaplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|solutionrelative:teste.crmeducacional.domain\\interfaceservices\\iaplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\teste.crmeducacional.domain\\entities\\candidato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|solutionrelative:teste.crmeducacional.domain\\entities\\candidato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5817B939-A456-4509-90B3-FAC1E7AC2A91}|Teste.CrmEducacional.Repository\\Teste.CrmEducacional.Repository.csproj|D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\teste.crmeducacional.repository\\repository\\interfaces\\icandidatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5817B939-A456-4509-90B3-FAC1E7AC2A91}|Teste.CrmEducacional.Repository\\Teste.CrmEducacional.Repository.csproj|solutionrelative:teste.crmeducacional.repository\\repository\\interfaces\\icandidatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\teste.crmeducacional.domain\\services\\aplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|solutionrelative:teste.crmeducacional.domain\\services\\aplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\teste.crmeducacional.domain\\entities\\processoseletivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|solutionrelative:teste.crmeducacional.domain\\entities\\processoseletivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\teste.crmeducacional.domain\\entities\\inscricao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|solutionrelative:teste.crmeducacional.domain\\entities\\inscricao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\teste.crmeducacional.domain\\entities\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|solutionrelative:teste.crmeducacional.domain\\entities\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\teste.crmeducacional.domain\\configurations\\mapeamentodtos\\entitiestodtomappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|solutionrelative:teste.crmeducacional.domain\\configurations\\mapeamentodtos\\entitiestodtomappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE5C4B6-7801-4FDB-AD0B-D53BDB7685DA}|Teste.CrmEducacional.Api\\Teste.CrmEducacional.Api.csproj|D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\teste.crmeducacional.api\\migrations\\testecrmeducacionaldbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE5C4B6-7801-4FDB-AD0B-D53BDB7685DA}|Teste.CrmEducacional.Api\\Teste.CrmEducacional.Api.csproj|solutionrelative:teste.crmeducacional.api\\migrations\\testecrmeducacionaldbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\teste.crmeducacional.domain\\configurations\\testecrmeducacionaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|solutionrelative:teste.crmeducacional.domain\\configurations\\testecrmeducacionaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839D9D41-2A37-49FA-BF88-1E4EC965293A}|Teste.CrmEducacional.DTO\\Teste.CrmEducacional.DTO.csproj|D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\teste.crmeducacional.dto\\dtos\\candidatodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{839D9D41-2A37-49FA-BF88-1E4EC965293A}|Teste.CrmEducacional.DTO\\Teste.CrmEducacional.DTO.csproj|solutionrelative:teste.crmeducacional.dto\\dtos\\candidatodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -79,20 +83,24 @@
       "RelativeMoniker": "D:0:0:{CEE5C4B6-7801-4FDB-AD0B-D53BDB7685DA}|Teste.CrmEducacional.Api\\Teste.CrmEducacional.Api.csproj|solutionrelative:teste.crmeducacional.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{839D9D41-2A37-49FA-BF88-1E4EC965293A}|Teste.CrmEducacional.DTO\\Teste.CrmEducacional.DTO.csproj|d:\\teste-fernandosantos\\fontes\\teste.crmeducacional\\teste.crmeducacional.dto\\dtos\\inscricaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{839D9D41-2A37-49FA-BF88-1E4EC965293A}|Teste.CrmEducacional.DTO\\Teste.CrmEducacional.DTO.csproj|D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\teste.crmeducacional.dto\\dtos\\inscricaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{839D9D41-2A37-49FA-BF88-1E4EC965293A}|Teste.CrmEducacional.DTO\\Teste.CrmEducacional.DTO.csproj|solutionrelative:teste.crmeducacional.dto\\dtos\\inscricaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{839D9D41-2A37-49FA-BF88-1E4EC965293A}|Teste.CrmEducacional.DTO\\Teste.CrmEducacional.DTO.csproj|d:\\teste-fernandosantos\\fontes\\teste.crmeducacional\\teste.crmeducacional.dto\\dtos\\processoseletivodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{839D9D41-2A37-49FA-BF88-1E4EC965293A}|Teste.CrmEducacional.DTO\\Teste.CrmEducacional.DTO.csproj|D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\teste.crmeducacional.dto\\dtos\\processoseletivodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{839D9D41-2A37-49FA-BF88-1E4EC965293A}|Teste.CrmEducacional.DTO\\Teste.CrmEducacional.DTO.csproj|solutionrelative:teste.crmeducacional.dto\\dtos\\processoseletivodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{839D9D41-2A37-49FA-BF88-1E4EC965293A}|Teste.CrmEducacional.DTO\\Teste.CrmEducacional.DTO.csproj|d:\\teste-fernandosantos\\fontes\\teste.crmeducacional\\teste.crmeducacional.dto\\dtos\\cursodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{839D9D41-2A37-49FA-BF88-1E4EC965293A}|Teste.CrmEducacional.DTO\\Teste.CrmEducacional.DTO.csproj|D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\teste.crmeducacional.dto\\dtos\\cursodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{839D9D41-2A37-49FA-BF88-1E4EC965293A}|Teste.CrmEducacional.DTO\\Teste.CrmEducacional.DTO.csproj|solutionrelative:teste.crmeducacional.dto\\dtos\\cursodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\teste.crmeducacional.domain\\teste.crmeducacional.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3821E0CA-6172-4C41-BB81-962E9719D81B}|Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj|solutionrelative:teste.crmeducacional.domain\\teste.crmeducacional.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE5C4B6-7801-4FDB-AD0B-D53BDB7685DA}|Teste.CrmEducacional.Api\\Teste.CrmEducacional.Api.csproj|D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Api\\Migrations\\20250130231652_RelacionamentosEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE5C4B6-7801-4FDB-AD0B-D53BDB7685DA}|Teste.CrmEducacional.Api\\Teste.CrmEducacional.Api.csproj|solutionrelative:Teste.CrmEducacional.Api\\Migrations\\20250130231652_RelacionamentosEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -110,16 +118,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "InscricaoMap.cs",
-              "DocumentMoniker": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Domain\\Configurations\\Mapeamento\\InscricaoMap.cs",
-              "RelativeDocumentMoniker": "Teste.CrmEducacional.Domain\\Configurations\\Mapeamento\\InscricaoMap.cs",
-              "ToolTip": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Domain\\Configurations\\Mapeamento\\InscricaoMap.cs",
-              "RelativeToolTip": "Teste.CrmEducacional.Domain\\Configurations\\Mapeamento\\InscricaoMap.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAkAAAA",
+              "DocumentIndex": 7,
+              "Title": "CandidatoRepository.cs",
+              "DocumentMoniker": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Repository\\Repository\\CandidatoRepository.cs",
+              "RelativeDocumentMoniker": "Teste.CrmEducacional.Repository\\Repository\\CandidatoRepository.cs",
+              "ToolTip": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Repository\\Repository\\CandidatoRepository.cs",
+              "RelativeToolTip": "Teste.CrmEducacional.Repository\\Repository\\CandidatoRepository.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwBQAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T20:44:55.536Z",
+              "WhenOpened": "2025-01-30T20:32:18.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CandidatoController.cs",
+              "DocumentMoniker": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Api\\Controllers\\CandidatoController.cs",
+              "RelativeDocumentMoniker": "Teste.CrmEducacional.Api\\Controllers\\CandidatoController.cs",
+              "ToolTip": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Api\\Controllers\\CandidatoController.cs",
+              "RelativeToolTip": "Teste.CrmEducacional.Api\\Controllers\\CandidatoController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwFYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T00:37:50.16Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProcessoSeletivoMap.cs",
+              "DocumentMoniker": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Domain\\Configurations\\Mapeamento\\ProcessoSeletivoMap.cs",
+              "RelativeDocumentMoniker": "Teste.CrmEducacional.Domain\\Configurations\\Mapeamento\\ProcessoSeletivoMap.cs",
+              "ToolTip": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Domain\\Configurations\\Mapeamento\\ProcessoSeletivoMap.cs",
+              "RelativeToolTip": "Teste.CrmEducacional.Domain\\Configurations\\Mapeamento\\ProcessoSeletivoMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T21:32:37.221Z"
             },
             {
               "$type": "Document",
@@ -131,12 +163,11 @@
               "RelativeToolTip": "Teste.CrmEducacional.Domain\\Configurations\\Mapeamento\\CandidatoMap.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T00:38:22.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T00:38:22.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CursoMap.cs",
               "DocumentMoniker": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Domain\\Configurations\\Mapeamento\\CursoMap.cs",
               "RelativeDocumentMoniker": "Teste.CrmEducacional.Domain\\Configurations\\Mapeamento\\CursoMap.cs",
@@ -144,38 +175,23 @@
               "RelativeToolTip": "Teste.CrmEducacional.Domain\\Configurations\\Mapeamento\\CursoMap.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T20:43:07.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T20:43:07.809Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProcessoSeletivoMap.cs",
-              "DocumentMoniker": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Domain\\Configurations\\Mapeamento\\ProcessoSeletivoMap.cs",
-              "RelativeDocumentMoniker": "Teste.CrmEducacional.Domain\\Configurations\\Mapeamento\\ProcessoSeletivoMap.cs",
-              "ToolTip": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Domain\\Configurations\\Mapeamento\\ProcessoSeletivoMap.cs",
-              "RelativeToolTip": "Teste.CrmEducacional.Domain\\Configurations\\Mapeamento\\ProcessoSeletivoMap.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABQAAAA",
+              "DocumentIndex": 3,
+              "Title": "InscricaoMap.cs",
+              "DocumentMoniker": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Domain\\Configurations\\Mapeamento\\InscricaoMap.cs",
+              "RelativeDocumentMoniker": "Teste.CrmEducacional.Domain\\Configurations\\Mapeamento\\InscricaoMap.cs",
+              "ToolTip": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Domain\\Configurations\\Mapeamento\\InscricaoMap.cs",
+              "RelativeToolTip": "Teste.CrmEducacional.Domain\\Configurations\\Mapeamento\\InscricaoMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T21:32:37.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T20:44:55.536Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CandidatoController.cs",
-              "DocumentMoniker": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Api\\Controllers\\CandidatoController.cs",
-              "RelativeDocumentMoniker": "Teste.CrmEducacional.Api\\Controllers\\CandidatoController.cs",
-              "ToolTip": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Api\\Controllers\\CandidatoController.cs",
-              "RelativeToolTip": "Teste.CrmEducacional.Api\\Controllers\\CandidatoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T00:37:50.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Api\\appsettings.json",
               "RelativeDocumentMoniker": "Teste.CrmEducacional.Api\\appsettings.json",
@@ -183,12 +199,71 @@
               "RelativeToolTip": "Teste.CrmEducacional.Api\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-30T19:54:01.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T19:54:01.051Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "20250130213703_MigrationTesteCrmV1.cs",
+              "DocumentMoniker": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Api\\Migrations\\20250130213703_MigrationTesteCrmV1.cs",
+              "RelativeDocumentMoniker": "Teste.CrmEducacional.Api\\Migrations\\20250130213703_MigrationTesteCrmV1.cs",
+              "ToolTip": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Api\\Migrations\\20250130213703_MigrationTesteCrmV1.cs",
+              "RelativeToolTip": "Teste.CrmEducacional.Api\\Migrations\\20250130213703_MigrationTesteCrmV1.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T21:37:03.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAplicationService.cs",
+              "DocumentMoniker": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Domain\\InterfaceServices\\IAplicationService.cs",
+              "RelativeDocumentMoniker": "Teste.CrmEducacional.Domain\\InterfaceServices\\IAplicationService.cs",
+              "ToolTip": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Domain\\InterfaceServices\\IAplicationService.cs",
+              "RelativeToolTip": "Teste.CrmEducacional.Domain\\InterfaceServices\\IAplicationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T23:43:40.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICandidatoRepository.cs",
+              "DocumentMoniker": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Repository\\Repository\\Interfaces\\ICandidatoRepository.cs",
+              "RelativeDocumentMoniker": "Teste.CrmEducacional.Repository\\Repository\\Interfaces\\ICandidatoRepository.cs",
+              "ToolTip": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Repository\\Repository\\Interfaces\\ICandidatoRepository.cs",
+              "RelativeToolTip": "Teste.CrmEducacional.Repository\\Repository\\Interfaces\\ICandidatoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T22:41:57.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Candidato.cs",
+              "DocumentMoniker": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Domain\\Entities\\Candidato.cs",
+              "RelativeDocumentMoniker": "Teste.CrmEducacional.Domain\\Entities\\Candidato.cs",
+              "ToolTip": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Domain\\Entities\\Candidato.cs",
+              "RelativeToolTip": "Teste.CrmEducacional.Domain\\Entities\\Candidato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T20:23:37.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AplicationService.cs",
+              "DocumentMoniker": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Domain\\Services\\AplicationService.cs",
+              "RelativeDocumentMoniker": "Teste.CrmEducacional.Domain\\Services\\AplicationService.cs",
+              "ToolTip": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Domain\\Services\\AplicationService.cs",
+              "RelativeToolTip": "Teste.CrmEducacional.Domain\\Services\\AplicationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T23:43:41.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "EntitiesToDtoMappings.cs",
               "DocumentMoniker": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Domain\\Configurations\\MapeamentoDTOs\\EntitiesToDtoMappings.cs",
               "RelativeDocumentMoniker": "Teste.CrmEducacional.Domain\\Configurations\\MapeamentoDTOs\\EntitiesToDtoMappings.cs",
@@ -196,51 +271,23 @@
               "RelativeToolTip": "Teste.CrmEducacional.Domain\\Configurations\\MapeamentoDTOs\\EntitiesToDtoMappings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T00:38:26.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T00:38:26.855Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Candidato.cs",
-              "DocumentMoniker": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Domain\\Entities\\Candidato.cs",
-              "RelativeDocumentMoniker": "Teste.CrmEducacional.Domain\\Entities\\Candidato.cs",
-              "ToolTip": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Domain\\Entities\\Candidato.cs",
-              "RelativeToolTip": "Teste.CrmEducacional.Domain\\Entities\\Candidato.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T20:23:37.976Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
               "Title": "Inscricao.cs",
               "DocumentMoniker": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Domain\\Entities\\Inscricao.cs",
               "RelativeDocumentMoniker": "Teste.CrmEducacional.Domain\\Entities\\Inscricao.cs",
               "ToolTip": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Domain\\Entities\\Inscricao.cs",
               "RelativeToolTip": "Teste.CrmEducacional.Domain\\Entities\\Inscricao.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwDAAAAAAAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwDAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T20:23:59.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T20:23:59.379Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TesteCrmEducacionalDbContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Api\\Migrations\\TesteCrmEducacionalDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Teste.CrmEducacional.Api\\Migrations\\TesteCrmEducacionalDbContextModelSnapshot.cs",
-              "ToolTip": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Api\\Migrations\\TesteCrmEducacionalDbContextModelSnapshot.cs",
-              "RelativeToolTip": "Teste.CrmEducacional.Api\\Migrations\\TesteCrmEducacionalDbContextModelSnapshot.cs",
-              "ViewState": "AQIAAIgAAAAAAAAAAAAgwKQAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T23:38:26.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Curso.cs",
               "DocumentMoniker": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Domain\\Entities\\Curso.cs",
               "RelativeDocumentMoniker": "Teste.CrmEducacional.Domain\\Entities\\Curso.cs",
@@ -248,51 +295,35 @@
               "RelativeToolTip": "Teste.CrmEducacional.Domain\\Entities\\Curso.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T20:23:57.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T20:23:57.183Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "CandidatoRepository.cs",
-              "DocumentMoniker": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Repository\\Repository\\CandidatoRepository.cs",
-              "RelativeDocumentMoniker": "Teste.CrmEducacional.Repository\\Repository\\CandidatoRepository.cs",
-              "ToolTip": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Repository\\Repository\\CandidatoRepository.cs",
-              "RelativeToolTip": "Teste.CrmEducacional.Repository\\Repository\\CandidatoRepository.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAmwGEAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T20:32:18.567Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "ProcessoSeletivo.cs",
               "DocumentMoniker": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Domain\\Entities\\ProcessoSeletivo.cs",
               "RelativeDocumentMoniker": "Teste.CrmEducacional.Domain\\Entities\\ProcessoSeletivo.cs",
               "ToolTip": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Domain\\Entities\\ProcessoSeletivo.cs",
               "RelativeToolTip": "Teste.CrmEducacional.Domain\\Entities\\ProcessoSeletivo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T20:24:07.615Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T20:24:07.615Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ICandidatoRepository.cs",
-              "DocumentMoniker": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Repository\\Repository\\Interfaces\\ICandidatoRepository.cs",
-              "RelativeDocumentMoniker": "Teste.CrmEducacional.Repository\\Repository\\Interfaces\\ICandidatoRepository.cs",
-              "ToolTip": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Repository\\Repository\\Interfaces\\ICandidatoRepository.cs",
-              "RelativeToolTip": "Teste.CrmEducacional.Repository\\Repository\\Interfaces\\ICandidatoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAkAAAA",
+              "DocumentIndex": 16,
+              "Title": "TesteCrmEducacionalDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Api\\Migrations\\TesteCrmEducacionalDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Teste.CrmEducacional.Api\\Migrations\\TesteCrmEducacionalDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Api\\Migrations\\TesteCrmEducacionalDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Teste.CrmEducacional.Api\\Migrations\\TesteCrmEducacionalDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAgwKQAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T22:41:57.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T23:38:26.153Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "TesteCrmEducacionalDbContext.cs",
               "DocumentMoniker": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Domain\\Configurations\\TesteCrmEducacionalDbContext.cs",
               "RelativeDocumentMoniker": "Teste.CrmEducacional.Domain\\Configurations\\TesteCrmEducacionalDbContext.cs",
@@ -300,12 +331,11 @@
               "RelativeToolTip": "Teste.CrmEducacional.Domain\\Configurations\\TesteCrmEducacionalDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T00:38:29.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T00:38:29.746Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 24,
               "Title": "20250130231652_RelacionamentosEntity.cs",
               "DocumentMoniker": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Api\\Migrations\\20250130231652_RelacionamentosEntity.cs",
               "RelativeDocumentMoniker": "Teste.CrmEducacional.Api\\Migrations\\20250130231652_RelacionamentosEntity.cs",
@@ -313,25 +343,11 @@
               "RelativeToolTip": "Teste.CrmEducacional.Api\\Migrations\\20250130231652_RelacionamentosEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T23:16:52.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T23:16:52.394Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "20250130213703_MigrationTesteCrmV1.cs",
-              "DocumentMoniker": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Api\\Migrations\\20250130213703_MigrationTesteCrmV1.cs",
-              "RelativeDocumentMoniker": "Teste.CrmEducacional.Api\\Migrations\\20250130213703_MigrationTesteCrmV1.cs",
-              "ToolTip": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Api\\Migrations\\20250130213703_MigrationTesteCrmV1.cs",
-              "RelativeToolTip": "Teste.CrmEducacional.Api\\Migrations\\20250130213703_MigrationTesteCrmV1.cs",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T21:37:03.646Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Api\\Program.cs",
               "RelativeDocumentMoniker": "Teste.CrmEducacional.Api\\Program.cs",
@@ -339,12 +355,11 @@
               "RelativeToolTip": "Teste.CrmEducacional.Api\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T20:23:07.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T20:23:07.697Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "CandidatoDTO.cs",
               "DocumentMoniker": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.DTO\\DTOS\\CandidatoDTO.cs",
               "RelativeDocumentMoniker": "Teste.CrmEducacional.DTO\\DTOS\\CandidatoDTO.cs",
@@ -352,12 +367,11 @@
               "RelativeToolTip": "Teste.CrmEducacional.DTO\\DTOS\\CandidatoDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T22:39:15.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T22:39:15.735Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "CursoDTO.cs",
               "DocumentMoniker": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.DTO\\DTOS\\CursoDTO.cs",
               "RelativeDocumentMoniker": "Teste.CrmEducacional.DTO\\DTOS\\CursoDTO.cs",
@@ -365,12 +379,11 @@
               "RelativeToolTip": "Teste.CrmEducacional.DTO\\DTOS\\CursoDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T22:39:09.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T22:39:09.862Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "ProcessoSeletivoDTO.cs",
               "DocumentMoniker": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.DTO\\DTOS\\ProcessoSeletivoDTO.cs",
               "RelativeDocumentMoniker": "Teste.CrmEducacional.DTO\\DTOS\\ProcessoSeletivoDTO.cs",
@@ -378,12 +391,11 @@
               "RelativeToolTip": "Teste.CrmEducacional.DTO\\DTOS\\ProcessoSeletivoDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T22:39:13.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T22:39:13.524Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "InscricaoDTO.cs",
               "DocumentMoniker": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.DTO\\DTOS\\InscricaoDTO.cs",
               "RelativeDocumentMoniker": "Teste.CrmEducacional.DTO\\DTOS\\InscricaoDTO.cs",
@@ -391,12 +403,11 @@
               "RelativeToolTip": "Teste.CrmEducacional.DTO\\DTOS\\InscricaoDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T22:39:18.364Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T22:39:18.364Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Teste.CrmEducacional.Domain",
               "DocumentMoniker": "D:\\Teste-FernandoSantos\\fontes\\Teste.CrmEducacional\\Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj",
               "RelativeDocumentMoniker": "Teste.CrmEducacional.Domain\\Teste.CrmEducacional.Domain.csproj",
